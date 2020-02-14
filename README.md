@@ -114,7 +114,7 @@
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(66).pdf" style="text-decoration:none;">Experimental Comparisons of Online and Batch Versions of Bagging and Boosting</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(67).pdf" style="text-decoration:none;">Spectral Dynamics of Learning Restricted Boltzmann Machines</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(67).pdf" style="text-decoration:none;">Adversarial Policies: Attacking Deep Reinforcement Learning</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(68).pdf" style="text-decoration:none;">Statistical Visual Language Models for Ink Parsing</a></b></li> 
  
