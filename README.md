@@ -98,142 +98,141 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(57).pdf" style="text-decoration:none;">Planning Using Multiple Execution Architectures </a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(58).pdf" style="text-decoration:none;">Local learning in probabilistic networks with hidden variables</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(59).pdf" style="text-decoration:none;">Self-Learning Phase Boundaries by Active Contours</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(59).pdf" style="text-decoration:none;">The BATmobile: Towards a Bayesian Automated Taxi</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(60).pdf" style="text-decoration:none;">Inverse Ising inference by combining Ornstein-Zernike theory with deep learning </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(60).pdf" style="text-decoration:none;">Rationality and Intelligence</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(61).pdf" style="text-decoration:none;">Deep neural networks for direct, featureless learning through observation: the case of 2d spin models</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(61).pdf" style="text-decoration:none;">Approximating Optimal Policies for Partially Observable Stochastic Domains</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(62).pdf" style="text-decoration:none;">Quantum phase recognition via unsupervised machine learning</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(62).pdf" style="text-decoration:none;">Convergence of reinforcement learning with general function approximators</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(63).pdf" style="text-decoration:none;">Learning the Einstein-Podolsky-Rosen correlations on a Restricted Boltzmann Machine</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(63).pdf" style="text-decoration:none;">Tracking many objects with many sensors</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(64).pdf" style="text-decoration:none;">Quantum dynamics in transverse-field Ising models from classical networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(64).pdf" style="text-decoration:none;">Unifying Logic and Probability: A New Dawn for AI?</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(65).pdf" style="text-decoration:none;">Quantum machine learning: a classical perspective </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(65).pdf" style="text-decoration:none;">Provably bounded optimal agents  </a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(66).pdf" style="text-decoration:none;">Solving the Bose-Hubbard model with machine learning</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(66).pdf" style="text-decoration:none;">Experimental Comparisons of Online and Batch Versions of Bagging and Boosting</a></b></li> 
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(67).pdf" style="text-decoration:none;">Spectral Dynamics of Learning Restricted Boltzmann Machines</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(68).pdf" style="text-decoration:none;">Deep Learning the Ising Model Near Criticality</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(68).pdf" style="text-decoration:none;">Statistical Visual Language Models for Ink Parsing</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(69).pdf" style="text-decoration:none;">Learning Fermionic Critical Points</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(69).pdf" style="text-decoration:none;">Temporal Logical Filtering – Preliminary Results</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(70).pdf" style="text-decoration:none;">Extensive deep neural networks</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(70).pdf" style="text-decoration:none;">Computational Intelligence</a></b></li> 
   
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(71).pdf" style="text-decoration:none;">Machine Learning Topological Invariants with Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(71).pdf" style="text-decoration:none;">Metareasoning </a></b></li>
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(72).pdf" style="text-decoration:none;">Phase Diagrams of Three-Dimensional Anderson and Quantum Percolation Models using Deep Three-Dimensional Convolutional
-Neural Network</a></b></li> 
- 
- 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(73).pdf" style="text-decoration:none;">Machine Learning Spatial Geometry from Entanglement Features</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(74).pdf" style="text-decoration:none;">Unsupervised Generative Modeling Using Matrix Product States</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(75).pdf" style="text-decoration:none;">Identifying Product Order with Restricted Boltzmann Machines</a></b></li>                        
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(76).pdf" style="text-decoration:none;">Machine learning and artificial intelligence in the quantum domain</a></b></li>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(77).pdf" style="text-decoration:none;">Learning Disordered Topological Phases by Statistical Recovery of Symmetry</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(72).pdf" style="text-decoration:none;">Algorithms for inverse reinforcement learning</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(78).pdf" style="text-decoration:none;">Restricted-Boltzmann-Machine Learning for Solving Strongly Correlated Quantum Systems</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(79).pdf" style="text-decoration:none;">Quantum Autoencoders via Quantum Adders with Genetic Algorithms</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(73).pdf" style="text-decoration:none;">Q-Decomposition for Reinforcement Learning Agents</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(74).pdf" style="text-decoration:none;">Probabilistic modeling of sensor artifacts in critical care</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(75).pdf" style="text-decoration:none;">Bayesian Treaty Monitoring: Preliminary Report</a></b></li>                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(76).pdf" style="text-decoration:none;">Machine Learning at the CTBTO. Testing and evaluation of the False Events Identification (FEI) and Vertically Integrated Seismic Association (VISA) project </a></b></li>
 
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(80).pdf" style="text-decoration:none;">Generalized Quantum Reinforcement Learning with Quantum Technologies</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(77).pdf" style="text-decoration:none;">Analyst Evaluation of NET-VISA (Network Processing Vertically Integrated Seismic Analysis) at the CTBTO</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(82).pdf" style="text-decoration:none;">Enhanced Quantum Synchronization via Quantum Machine Learning</a></b></li>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(83).pdf" style="text-decoration:none;">Learning hard quantum distributions with variational autoencoders</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(84).pdf" style="text-decoration:none;">Mean-field theory of input dimensionality reduction in unsupervised deep neural networks</a></b></li>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(85).pdf" style="text-decoration:none;">Neural Networks Quantum States, String-Bond States and chiral topological states</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(86).pdf" style="text-decoration:none;">Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures</a></b></li>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(87).pdf" style="text-decoration:none;">Entanglement Entropy of Target Functions for Image Classification and Convolutional Neural Network</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(88).pdf" style="text-decoration:none;">A Correspondence Between Random Neural Networks and Statistical Field Theory</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(89).pdf" style="text-decoration:none;">Learning Hidden Quantum Markov Models</a></b></li>
-  
-  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(90).pdf" style="text-decoration:none;">Machine learning vortices at the Kosterlitz-Thouless transition</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(91).pdf" style="text-decoration:none;">Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks</a></b></li>
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(92).pdf" style="text-decoration:none;">Machine learning out-of-equilibrium phases of matter</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(93).pdf" style="text-decoration:none;"> An efficient quantum algorithm for generative machine learning</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(94).pdf" style="text-decoration:none;">Hardening Quantum Machine Learning Against Adversaries</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(95).pdf" style="text-decoration:none;">Experimental learning of quantum states</a></b></li>  
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(96).pdf" style="text-decoration:none;">Deep Neural Network Detects Quantum Phase Transition</a></b></li> 
-  
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(97).pdf" style="text-decoration:none;">Towards reduction of autocorrelation in HMC by machine learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(78).pdf" style="text-decoration:none;">Progress in Signal-Based Bayesian Monitoring</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(79).pdf" style="text-decoration:none;">Model Based Probabilistic Inference for Intensive Care Medicine</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(98).pdf" style="text-decoration:none;">Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(99).pdf" style="text-decoration:none;">A Quantum Extension of Variational Bayes Inference</a></b></li>  
-  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(100).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></b></li>  
-  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(102).pdf" style="text-decoration:none;">Learning Relevant Features of Data with Multi-scale Tensor Networks</a></b></li> 
-  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(103).pdf" style="text-decoration:none;">A relativistic extension of Hopfield neural networks via the mechanical analogy </a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(104).pdf" style="text-decoration:none;">Generative Models for Stochastic Processes Using Convolutional Neural Networks</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(105).pdf" style="text-decoration:none;">Scale-invariant Feature Extraction of Neural Network and Renormalization Group Flow</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(80).pdf" style="text-decoration:none;">Programmable Reinforcement Learning Agents</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(106).pdf" style="text-decoration:none;">Experimentally Detecting a Quantum Change Point via Bayesian Inference</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(81).pdf" style="text-decoration:none;">Identity Uncertainty and Citation Matching</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(82).pdf" style="text-decoration:none;">Distance metric learning, with application to clustering with side-information</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(83).pdf" style="text-decoration:none;">A Hierarchical Bayesian Markovian Model for Motifs in Biopolymer Sequences</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(84).pdf" style="text-decoration:none;">Probabilistic detection of short events, with application to critical care monitoring</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(85).pdf" style="text-decoration:none;">Global seismic monitoring as probabilistic inference</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(86).pdf" style="text-decoration:none;">Multilinear Dynamical Systems for Tensor Time Series</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(87).pdf" style="text-decoration:none;">Combined State and Parameter Estimation of Human Intracranial Hemodynamics</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(88).pdf" style="text-decoration:none;">Gaussian Process Random Fields</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(89).pdf" style="text-decoration:none;">Inverse Reward Design</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(107).pdf" style="text-decoration:none;">Leveraging Adiabatic Quantum Computation for Election Forecasting</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(90).pdf" style="text-decoration:none;">Learning Plannable Representations with Causal InfoGAN</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(91).pdf" style="text-decoration:none;">Meta-Learning MCMC Proposals</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(92).pdf" style="text-decoration:none;">Negotiable Reinforcement Learning for Pareto Optimal Sequential Decision-Making</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(93).pdf" style="text-decoration:none;"> Extending Bayesian Networks to the Open-Universe Case</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(94).pdf" style="text-decoration:none;">Rationality and Intelligence: A Brief Update</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(95).pdf" style="text-decoration:none;">Speeding Up HAM Learning with Internal Transitions</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(96).pdf" style="text-decoration:none;">Provably Beneficial Artificial Intelligence</a></b></li> 
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(97).pdf" style="text-decoration:none;">Cooperative Inverse Reinforcement Learning</a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(98).pdf" style="text-decoration:none;">Should we fear supersmart robots? </a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(99).pdf" style="text-decoration:none;">Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(100).pdf" style="text-decoration:none;">Machine learning for Comprehensive Nuclear-Test-Ban Treaty monitoring</a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(101).pdf" style="text-decoration:none;">First-Order Probabilistic Models for Information Extraction</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(102).pdf" style="text-decoration:none;">BLOG: Relational Modeling with Unknown Objects</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(108).pdf" style="text-decoration:none;">Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(103).pdf" style="text-decoration:none;">Anytime Lifted Belief Propagation </a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(109).pdf" style="text-decoration:none;">Critical Percolation as a Framework to Analyze the Training of Deep Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(104).pdf" style="text-decoration:none;">BLOG: ProbabilisticModels with Unknown Objects</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(110).pdf" style="text-decoration:none;">Neural Network Renormalization Group</a></b></li>  
-   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(105).pdf" style="text-decoration:none;">First-Order Models for POMDPs</a></b></li> 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(106).pdf" style="text-decoration:none;">Uncertain observation times</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(107).pdf" style="text-decoration:none;">State Abstraction for Programmable Reinforcement Learning Agents</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(112).pdf" style="text-decoration:none;">Reinforcement Learning with Neural Networks for Quantum Feedback</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(108).pdf" style="text-decoration:none;">Angelic Semantics for High-Level Actions</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(113).pdf" style="text-decoration:none;">Learning DNFs under product distributions via μ–biased quantum Fourier sampling</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(109).pdf" style="text-decoration:none;">Angelic Hierarchical Planning: Optimal and Online Algorithms (Revised)</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(114).pdf" style="text-decoration:none;">Inferring relevant features: from QFT to PCA</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(115).pdf" style="text-decoration:none;">Quantum Variational Autoencoder</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(110).pdf" style="text-decoration:none;">Markov Chain Monte Carlo Data Association for Multiple-Target Tracking</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></b></li>   
-   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(117).pdf" style="text-decoration:none;">Deep neural decoders for near term fault-tolerant experiments</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(118).pdf" style="text-decoration:none;">Advantages of versatile neural-network decoding for topological codes</a></b></li>  
-   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(119).pdf" style="text-decoration:none;">Online Learning of Quantum States</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(111).pdf" style="text-decoration:none;">Variational MCMC</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(120).pdf" style="text-decoration:none;">Parameter diagnostics of phases and phase transition learning by neural networks</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(121).pdf" style="text-decoration:none;">Universal Quantum Control through Deep Reinforcement Learning</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(112).pdf" style="text-decoration:none;">Decayed MCMC Filtering</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(113).pdf" style="text-decoration:none;">A generalized mean field algorithm for variational inference in exponential families</a></b></li>  
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(122).pdf" style="text-decoration:none;">Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(114).pdf" style="text-decoration:none;">Efficient Gradient Estimation for Motor Control Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(115).pdf" style="text-decoration:none;">Graph partition strategies for generalized mean field inference</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(116).pdf" style="text-decoration:none;">General-Purpose MCMC Inference over Relational Structures</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(117).pdf" style="text-decoration:none;">A Compact, Hierarchically Optimal Q-function Decomposition</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(118).pdf" style="text-decoration:none;">Improving Gradient Estimation by Incorporating Sensor Data</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(119).pdf" style="text-decoration:none;">Gibbs Sampling in Open-Universe Stochastic Languages</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(120).pdf" style="text-decoration:none;">RAPID: A Reachable Anytime Planner for Imprecisely-sensed Domains</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(121).pdf" style="text-decoration:none;">A temporally abstracted Viterbi algorithm</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(122).pdf" style="text-decoration:none;">Selecting Computations: Theory and Applications </a></b></li>  
      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(123).pdf" style="text-decoration:none;">Thermodynamics of Restricted Boltzmann Machines and Related Learning Dynamics</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(123).pdf" style="text-decoration:none;">Fast Gaussian Process Posteriors with Product Trees</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(124).pdf" style="text-decoration:none;">Measurement-based adaptation protocol with quantum reinforcement learning</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(124).pdf" style="text-decoration:none;">First-Order Open-Universe POMDPs</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(125).pdf" style="text-decoration:none;">Vulnerability of Deep Learning </a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(125).pdf" style="text-decoration:none;">Multitasking: Efficient Optimal Planning for Bandit Superprocesses </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(126).pdf" style="text-decoration:none;">Comparing Dynamics: Deep Neural Networks versus Glassy Systems</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(126).pdf" style="text-decoration:none;">A Smart-Dumb/Dumb-Smart Algorithm for Efficient Split-Merge MCMC</a></b></li> 
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(127).pdf" style="text-decoration:none;">Extrapolating quantum observables with machine learning: Inferring multiple phase transitions from properties of a single phase</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stuart-Russell-Publications/blob/master/srt(127).pdf" style="text-decoration:none;">Image Segmentation in Video Sequences: A Probabilistic Approach</a></b></li>  
 
 </ul>
